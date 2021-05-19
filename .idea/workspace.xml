@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88204922-8e54-47aa-bb75-2c764742b445" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sNeER5MRwH8mJGjbZXyZcN1Ku3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\umair\WebstormProjects\OnlineMarketPlace" />
+      <recent name="C:\Users\umair\WebstormProjects\OnlineMarketPlace\Resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\umair\WebstormProjects\OnlineMarketPlace\Images" />
+      <recent name="C:\Users\umair\WebstormProjects\OnlineMarketPlace\Resources\Images" />
+      <recent name="C:\Users\umair\WebstormProjects\OnlineMarketPlace\Resources\css\bootstrap" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88204922-8e54-47aa-bb75-2c764742b445" name="Default Changelist" comment="" />
+      <created>1620717362759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620717362759</updated>
+      <workItem from="1620717363838" duration="347000" />
+      <workItem from="1620717732297" duration="5860000" />
+      <workItem from="1621187460354" duration="41012000" />
+      <workItem from="1621358976249" duration="8341000" />
+      <workItem from="1621436294377" duration="8255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621187903133">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="414" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1621187903133" />
+    <state x="690" y="306" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621444324011">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="690" y="306" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1621444324011" />
+    <state x="740" y="314" key="FileChooserDialogImpl" timestamp="1621444314591">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="740" y="314" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1621444314591" />
+    <state x="461" y="185" key="SettingsEditor" timestamp="1620717719276">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="461" y="185" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1620717719276" />
+    <state x="616" y="260" key="run.anything.popup" timestamp="1621442875383">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="616" y="260" key="run.anything.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1621442875383" />
+    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup" timestamp="1621192397819">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1621192397819" />
+  </component>
+</project>
