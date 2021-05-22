@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="88204922-8e54-47aa-bb75-2c764742b445" name="Default Changelist" comment="" />
+    <list default="true" id="88204922-8e54-47aa-bb75-2c764742b445" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Images/DigitalEmporiumLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/css/MyCss/MyFooter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/css/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/css/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/css/MyCss/Stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/css/MyCss/Stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/css/bootstrap/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/css/bootstrap/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/css/bootstrap/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/css/bootstrap/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/css/bootstrap/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/css/bootstrap/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/css/bootstrap/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/css/bootstrap/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/css/bootstrap/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/css/bootstrap/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/css/bootstrap/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/css/bootstrap/bootstrap.min.css.map" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +53,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1sNeER5MRwH8mJGjbZXyZcN1Ku3" />
   <component name="ProjectViewState">
@@ -35,9 +77,11 @@
       <recent name="C:\Users\umair\WebstormProjects\OnlineMarketPlace\Resources" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Projects\Android\GtiProjects\DigitalEmporiumHomePage\Images" />
+      <recent name="F:\Projects\Android\GtiProjects\DigitalEmporiumHomePage\Resources" />
+      <recent name="F:\Projects\Android\GtiProjects\DigitalEmporiumHomePage\Resources\css" />
+      <recent name="F:\Projects\Android\GtiProjects\DigitalEmporiumHomePage\Resources\css\bootstrap" />
       <recent name="C:\Users\umair\WebstormProjects\OnlineMarketPlace\Images" />
-      <recent name="C:\Users\umair\WebstormProjects\OnlineMarketPlace\Resources\Images" />
-      <recent name="C:\Users\umair\WebstormProjects\OnlineMarketPlace\Resources\css\bootstrap" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -53,11 +97,25 @@
       <workItem from="1621187460354" duration="41012000" />
       <workItem from="1621358976249" duration="8341000" />
       <workItem from="1621436294377" duration="8255000" />
+      <workItem from="1621674034523" duration="6792000" />
+      <workItem from="1621699582037" duration="12502000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621187903133">
@@ -68,10 +126,10 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="690" y="306" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1621444324011" />
-    <state x="740" y="314" key="FileChooserDialogImpl" timestamp="1621444314591">
+    <state x="740" y="314" key="FileChooserDialogImpl" timestamp="1621702626501">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="740" y="314" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1621444314591" />
+    <state x="740" y="314" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1621702626501" />
     <state x="461" y="185" key="SettingsEditor" timestamp="1620717719276">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
@@ -80,9 +138,9 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="616" y="260" key="run.anything.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1621442875383" />
-    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup" timestamp="1621192397819">
+    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup" timestamp="1621681124389">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1621192397819" />
+    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1621681124389" />
   </component>
 </project>

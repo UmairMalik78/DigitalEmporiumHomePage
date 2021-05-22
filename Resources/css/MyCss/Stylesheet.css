@@ -31,25 +31,18 @@
     background-size: cover;
 }
 
-#collapsingNavbar a{
-    color: gray;
-    font-size: x-large;
-    margin: 25px;
-    width: max-content;
-}
-
-.search-field {
+#search-field {
     border-radius: 25px;
-    padding: 12px;
+    padding: 15px;
     border: 1px solid black;
-    width: 300pt;
+    width: fit-content;
     background-color: whitesmoke;
 }
 .search-btn{
     padding: 5px 30px 5px 30px;
     border-radius: 25px;
     font-size: large;
-    background-color: #5568d2;
+    background-color: #d5d8e9;
     color: whitesmoke;
     border: none;
 }
@@ -102,12 +95,7 @@
     background-color: #2e2e54;
 }
 
-body {
-    background: #fbfbfd;
-}
-
 /***********FOOTER STYLING************/
-body { color: #ccc }
 .footer-widget p {
     margin-bottom: 27px;
 }
@@ -277,15 +265,6 @@ p {
 .footer-widget .section-heading {
     margin-bottom: 35px; }
 
-.footer-widget h3 {
-    font-size: 24px;
-    color: #fff;
-    position: relative;
-    margin-bottom: 15px;
-    max-width: -webkit-fit-content;
-    max-width: -moz-fit-content;
-    max-width: fit-content; }
-
 .footer-widget ul {
     width: 50%;
     float: left;
@@ -441,7 +420,7 @@ p {
     margin: auto;
 }
 .view-cart-btn{
-    padding: 5px 30px 5px 30px;
+    padding: 0px 15px 0px 15px;
     border-radius: 25px;
     font-size: large;
     background-color: #5568d2;
@@ -454,10 +433,29 @@ p {
 button{
     cursor: pointer;
 }
-.navbar{
-    position:relative;
-    top:10px;
-    background-color: #dce7dc;
-    border-radius:50px;
-    margin-bottom: 20px;
+
+.login-signup-btn{
+    padding: 5px 30px 5px 30px;
+    border-radius: 25px;
+    font-size: large;
+    background-color: #5568d2;
+    color: whitesmoke;
+    border: none;
+}
+
+.cost-display{
+    font-family: fantasy;
+    color: green;
+    font-size: x-large;
+}
+.item-name{
+    font-size: xx-large;
+    font-family: "Cambria Math";
+}
+.my-card{
+    border-radius: 30px;
+    border: 1px solid black;
+}
+.nav-link{
+    font-size: x-large;
 }
